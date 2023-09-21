@@ -1,7 +1,7 @@
 #Hotel Alura
 
 <p align="center" >
-![Principal](img/principal.png)</p>
+![Principal](src/imagenes/principal.png)</p>
 
 ---
 
