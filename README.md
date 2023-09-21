@@ -1,6 +1,5 @@
-#Hotel Alura
+# Hotel Alura
 
-<p align="center" >
 ![Principal](src/imagenes/principal.png)</p>
 
 ---
@@ -23,25 +22,25 @@ En el siguiente módulo, se realiza el login del usuario admin.
 ![login](src/imagenes/captura1.png)
 
 Luego, se accede al Sistema de Reservas, en el que se puede ingresar una reserva o buscar dentro de las que hay registradas.
-![sistema principal](imagenes/captura2.png)
+![sistema principal](src/imagenes/captura2.png)
 
 Al ingresar en Registro de Reservas, se ingresan las fechas de entrada y salida; se muestra el valor a pagar y se elige el método de pago del huesped.
-![registro de reserva](imagenes/captura3.png)
+![registro de reserva](src/imagenes/captura3.png)
 
 Al dar en Siguiente, se muestra una ventana con el número de registro de esa reserva, y continúa el formulario para el registro del huesped.
-![registro de reserva exitoso](imagenes/captura4.png)
+![registro de reserva exitoso](src/imagenes/captura4.png)
 
 Al ingresar los datos del huesped, el campo de número de reserva es fijo para él (No es posible modificarlo).
-![formulario de huesped](imagenes/captura5.png)
+![formulario de huesped](src/imagenes/captura5.png)
 
 Se muestra una ventana que informa el registro exitoso de los datos.
-![registro de huesped exitoso](imagenes/captura6.png)
+![registro de huesped exitoso](src/imagenes/captura6.png)
 
 Se redirige al menú inicial, donde puedes ingresar al Sistema de Búsquedas. Hay 2 pestañas: Listado de huéspedes y Listado de Reservas:
-![sistema de búsqueda](imagenes/captura7.png)
+![sistema de búsqueda](src/imagenes/captura7.png)
 
 Es posible realizar la modificación y actualización de los registros. Además de buscar por los campos presentes en el listado.
-![sistema de búsqueda 2](imagenes/captura8.png)
+![sistema de búsqueda 2](src/imagenes/captura8.png)
 
 ## Cómo usar
 
