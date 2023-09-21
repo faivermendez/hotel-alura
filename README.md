@@ -20,7 +20,7 @@ Te muestro algunas capturas del funconamiento del Hotel Alura:
 
 En el siguiente módulo, se realiza el login del usuario admin.
 
-![login](imagenes/captura1.png)
+![login](src/imagenes/captura1.png)
 
 Luego, se accede al Sistema de Reservas, en el que se puede ingresar una reserva o buscar dentro de las que hay registradas.
 ![sistema principal](imagenes/captura2.png)
